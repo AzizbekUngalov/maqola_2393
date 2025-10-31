@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8"><title>Maqola 2393</title></head>
+  <body style="margin:0">
+    <embed src="maqola_2393.pdf#page=744" width="100%" height="100%" type="application/pdf">
+  </body>
+</html>
